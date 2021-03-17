@@ -55,7 +55,7 @@ h2{
 
 @media (max-width: 800px){
   .box{
-    width: 60%;
+    width: 80%;
   }
 }
 
@@ -72,6 +72,7 @@ h2{
   margin-right: 70px;
 }
 
+
 .about-text-style{
   font-family: 'Cormorant Infant', serif;
   font-size: 1.1rem;
@@ -80,7 +81,11 @@ h2{
 
 @media(max-width:800px){
   .profile-img{
-    margin-bottom: 50px;
+    margin-bottom: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+    width: 50%;
+    height: 50%;
   }
 }
 
